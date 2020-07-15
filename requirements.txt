@@ -1,0 +1,7 @@
+Appium-Python-Client==1.0.1
+decorator==4.4.2
+pytz==2020.1
+robotframework==3.2.1
+robotframework-appiumlibrary==1.5.0.6
+robotframework-seleniumlibrary==4.4.0
+selenium==3.141.0
